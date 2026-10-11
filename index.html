@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>形式风格知识库 / Form Style Knowledge</title>
+  <meta name="description" content="探索设计与艺术中的形式风格分类——极简、装饰艺术、有机自然、侘寂、波普、瑞士风格，建立你的形式审美坐标系。">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ========== 导航栏 ========== -->
+  <nav class="nav">
+    <div class="container nav-inner">
+      <a href="#" class="nav-logo">
+        <div class="nav-logo-mark">形</div>
+        <span>形式风格知识库</span>
+      </a>
+      
+      <ul class="nav-links">
+        <li><a href="#styles" class="active">风格分类</a></li>
+        <li><a href="#works">作品案例</a></li>
+        <li><a href="#about">关于</a></li>
+      </ul>
+      
+      <div class="nav-search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="nav-search-input" placeholder="搜索风格或作品...">
+      </div>
+
+      <button class="nav-mobile-btn" id="mobile-menu-btn" aria-label="菜单">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+  </nav>
+
+  <!-- ========== Hero 区域 ========== -->
+  <header class="hero">
+    <div class="container">
+      <p class="hero-kicker">Form Style Knowledge Base</p>
+      <h1 class="hero-title">看见形式，读懂风格</h1>
+      <p class="hero-subtitle">
+        从极简到波普，从侘寂到装饰艺术——这里整理了设计与艺术中最具代表性的形式风格分类，
+        帮你建立辨识风格的视觉坐标系，在纷繁的形式语言中找到属于自己的审美锚点。
+      </p>
+    </div>
+  </header>
+
+  <!-- ========== 风格分类区块 ========== -->
+  <section class="section" id="styles">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">六大形式风格</h2>
+        <p class="section-desc">每种风格有其独特的视觉基因——几何或曲线、对称或残缺、喧嚣或静谧。选择一种，深入了解它的密码。</p>
+      </div>
+
+      <!-- 筛选栏 -->
+      <div class="filter-bar" id="styles-filter-bar">
+        <span class="filter-label">标签筛选：</span>
+        <button class="filter-chip active" data-tag="all">全部</button>
+        <!-- 筛选按钮由 JS 生成 -->
+      </div>
+
+      <!-- 风格卡片网格 -->
+      <div class="styles-grid" id="styles-grid">
+        <!-- 由 JS 从 data/styles.json 渲染 -->
+        <div class="empty-state">
+          <p>正在加载风格数据...</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== 作品案例区块 ========== -->
+  <section class="section" id="works">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">代表作品</h2>
+        <p class="section-desc">理论之外的真实案例——每件作品都是一种风格语言的具体呈现。点击查看详细说明。</p>
+      </div>
+
+      <!-- 筛选栏 -->
+      <div class="filter-bar" id="works-filter-bar">
+        <span class="filter-label">按风格：</span>
+        <button class="filter-chip active" data-style="all">全部</button>
+        <!-- 筛选按钮由 JS 生成 -->
+      </div>
+
+      <!-- 作品卡片网格 -->
+      <div class="works-grid" id="works-grid">
+        <!-- 由 JS 从 data/works.json 渲染 -->
+        <div class="empty-state">
+          <p>正在加载作品数据...</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== 关于区块（深色） ========== -->
+  <section class="section dark-section" id="about">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">关于这个知识库</h2>
+        <p class="section-desc">一个不断生长的个人审美索引。</p>
+      </div>
+      
+      <div style="max-width: 640px; line-height: 1.8;">
+        <p style="margin-bottom: 1rem;">
+          这个知识库始于一个问题：<strong style="color: var(--text-on-dark);">「我如何系统地理解形式风格？」</strong>
+        </p>
+        <p style="margin-bottom: 1rem;">
+          每种风格都是一种「视觉语言」——它有自己的语法、词汇和说话的腔调。
+          当你学会识别这些语言，你会发现设计和艺术不再是混乱的图像堆叠，而是充满逻辑的对话。
+        </p>
+        <p style="margin-bottom: 1rem;">
+          这里的分类不是标准答案，而是<strong style="color: var(--text-on-dark);">一个起点</strong>。
+          你可以用它来观察作品，也可以添加自己的分类、标签和案例。
+          知识库应该被生长，而不是被完成。
+        </p>
+        <p style="color: var(--text-muted); font-size: 0.85rem;">
+          配色灵感来自大自然的大地色系——米白、橄榄绿、陶土橙、森林绿。
+          简约艺术风的核心是：<strong style="color: var(--text-on-dark);">留白不是空，是呼吸的空间。</strong>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== Footer ========== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-brand">形式风格知识库 · Form Style Knowledge</div>
+      <p class="footer-note">个人形式审美索引 · 简约艺术风 · 大自然配色</p>
+      <p class="footer-note" style="margin-top: 0.5rem;">© 2026 文样 Lab / Wenyang Lab</p>
+    </div>
+  </footer>
+
+  <!-- ========== 详情弹窗 ========== -->
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal-content">
+      <button class="modal-close" id="modal-close" aria-label="关闭">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+      <div id="modal-body">
+        <!-- 动态内容 -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== 脚本 ========== -->
+  <script src="data/styles.js"></script>
+  <script src="data/works.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

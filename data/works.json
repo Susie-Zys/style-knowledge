@@ -1,0 +1,1184 @@
+{
+  "works": [
+    {
+      "id": "w001",
+      "title": "巴塞罗那椅",
+      "artist": "Mies van der Rohe",
+      "year": "1929",
+      "style_id": "minimalism",
+      "type": "产品设计",
+      "desc": "不锈钢钢管与牛皮革的悬臂椅，无多余装饰，靠结构本身的力量感建立美感，极简主义的奠基之作。",
+      "source": "巴塞罗那世界博览会德国馆"
+    },
+    {
+      "id": "w002",
+      "title": "Less, but better",
+      "artist": "Dieter Rams",
+      "year": "1950s",
+      "style_id": "minimalism",
+      "type": "工业设计",
+      "desc": "Braun 品牌设计哲学：去除一切非功能的装饰，让每一个元素都有必要性。",
+      "source": "Braun 品牌设计体系"
+    },
+    {
+      "id": "w003",
+      "title": "Untitled（极简画）",
+      "artist": "Agnes Martin",
+      "year": "1970s",
+      "style_id": "minimalism",
+      "type": "视觉艺术",
+      "desc": "在大面积画布上以极细铅笔线构建近乎不存在的网格。它不是空，而是让观者进入冥想。",
+      "source": "Dia Beacon 美术馆"
+    },
+    {
+      "id": "w019",
+      "title": "T3 晶体管收音机",
+      "artist": "Dieter Rams",
+      "year": "1958",
+      "style_id": "minimalism",
+      "type": "工业设计",
+      "desc": "平板白色矩形、圆形拨号、网格扬声器孔。是 iOS 计算器和苹果 iPod 的视觉祖先。",
+      "source": "Braun 品牌 / MoMA 馆藏"
+    },
+    {
+      "id": "w020",
+      "title": "Brutalist 极简建筑系列",
+      "artist": "Kazuyo Sejima (SANAA)",
+      "year": "2000s",
+      "style_id": "minimalism",
+      "type": "建筑",
+      "desc": "用半透明玻璃和薄金属板构建的轻盈极简体量，打破建筑的厚重感。",
+      "source": "金泽21世纪美术馆"
+    },
+    {
+      "id": "w004",
+      "title": "克莱斯勒大厦",
+      "artist": "William Van Alen",
+      "year": "1930",
+      "style_id": "art-deco",
+      "type": "建筑",
+      "desc": "不锈钢尖塔以放射状三角形层层收束，装饰艺术建筑的巅峰之作。",
+      "source": "纽约曼哈顿"
+    },
+    {
+      "id": "w005",
+      "title": "装饰艺术风格花瓶",
+      "artist": "René Lalique",
+      "year": "1925",
+      "style_id": "art-deco",
+      "type": "工艺",
+      "desc": "几何切割、浮雕纹章和金属氧化工艺，将玻璃转化为具有纪念碑感的装饰艺术品。",
+      "source": "1925 年巴黎装饰艺术博览会"
+    },
+    {
+      "id": "w006",
+      "title": "Radio City 音乐厅内饰",
+      "artist": "Donald Deskey",
+      "year": "1932",
+      "style_id": "art-deco",
+      "type": "室内设计",
+      "desc": "金色金属叶片与镜面装饰，放射状几何纹样层层递进，将观众带入未来主义幻想空间。",
+      "source": "纽约 Rockefeller Center"
+    },
+    {
+      "id": "w021",
+      "title": "装饰艺术风格腕表",
+      "artist": "Cartier",
+      "year": "1920s",
+      "style_id": "art-deco",
+      "type": "产品设计",
+      "desc": "几何方形表壳、阶梯状金字塔纹饰、钻石镶嵌，是装饰艺术在高级制表领域的经典表达。",
+      "source": "卡地亚典藏馆"
+    },
+    {
+      "id": "w022",
+      "title": "上海和平饭店大堂",
+      "artist": "Palmer & Turner",
+      "year": "1929",
+      "style_id": "art-deco",
+      "type": "室内设计",
+      "desc": "大理石地面、青铜浮雕、几何吊灯，是远东装饰艺术最华丽的幸存空间。",
+      "source": "上海外滩"
+    },
+    {
+      "id": "w007",
+      "title": "流水别墅",
+      "artist": "Frank Lloyd Wright",
+      "year": "1937",
+      "style_id": "organic-naturalism",
+      "type": "建筑",
+      "desc": "建筑从自然里生长出来，水平平台与瀑布交错，石材与混凝土肌理呼应岩石。",
+      "source": "宾夕法尼亚州熊溪"
+    },
+    {
+      "id": "w008",
+      "title": "Panton Chair",
+      "artist": "Verner Panton",
+      "year": "1967",
+      "style_id": "organic-naturalism",
+      "type": "产品设计",
+      "desc": "世界第一把一体成型塑料椅。S 形曲线来自人体轮廓，一气呵成没有拼接。",
+      "source": "Vitra Design Museum"
+    },
+    {
+      "id": "w009",
+      "title": "圣家堂内部拱顶",
+      "artist": "Antoní Gaudí",
+      "year": "1900s",
+      "style_id": "organic-naturalism",
+      "type": "建筑",
+      "desc": "高迪的抛物线拱与双曲面壳模拟自然界最优结构——像骨骼、像叶脉。",
+      "source": "巴塞罗那圣家堂"
+    },
+    {
+      "id": "w023",
+      "title": "巴塞罗那米拉之家屋顶",
+      "artist": "Antoní Gaudí",
+      "year": "1912",
+      "style_id": "organic-naturalism",
+      "type": "建筑",
+      "desc": "石砌波浪形立面，屋顶如熔岩流动。高迪拒绝直线，认为自然中没有直线。",
+      "source": "巴塞罗那格拉西亚区"
+    },
+    {
+      "id": "w024",
+      "title": "Dyson V11 吸尘器",
+      "artist": "Jude Liversidge",
+      "year": "2019",
+      "style_id": "organic-naturalism",
+      "type": "工业设计",
+      "desc": "流体力学的仿生造型，空气动力学的曲线不是装饰，而是功能本身。",
+      "source": "Dyson 设计中心"
+    },
+    {
+      "id": "w010",
+      "title": "乐烧茶碗",
+      "artist": "Hon'ami Kōetsu",
+      "year": "1600s",
+      "style_id": "wabi-sabi",
+      "type": "工艺",
+      "desc": "手工捏制的不规则碗形，表面粗糙有烧制痕迹。珍视每一个意外。",
+      "source": "日本茶道文化"
+    },
+    {
+      "id": "w011",
+      "title": "龙安寺枯山水",
+      "artist": "龙安寺",
+      "year": "1488",
+      "style_id": "wabi-sabi",
+      "type": "景观设计",
+      "desc": "15 块石头散落在白砂上，用无暗示有，用静止暗示流动。",
+      "source": "京都龙安寺"
+    },
+    {
+      "id": "w012",
+      "title": "深泽直人 Muji 产品系列",
+      "artist": "Naoto Fukasawa",
+      "year": "2010s",
+      "style_id": "wabi-sabi",
+      "type": "产品设计",
+      "desc": "超正常哲学——让产品看起来就该是这个样子。不对称造型、大地色系。",
+      "source": "无印良品"
+    },
+    {
+      "id": "w025",
+      "title": "备前烧茶碗",
+      "artist": "藤原启",
+      "year": "当代",
+      "style_id": "wabi-sabi",
+      "type": "工艺",
+      "desc": "1200°C 柴窑烧制，表面出现自然落灰形成的釉色变化，每件独一无二。",
+      "source": "日本冈山县备前市"
+    },
+    {
+      "id": "w026",
+      "title": "千利休茶室设计",
+      "artist": "千利休",
+      "year": "1570s",
+      "style_id": "wabi-sabi",
+      "type": "建筑",
+      "desc": "2 叠榻榻米大的极小小屋，入口低矮需躬身，引导身体进入谦逊状态。",
+      "source": "京都待庵"
+    },
+    {
+      "id": "w013",
+      "title": "金宝汤罐头",
+      "artist": "Andy Warhol",
+      "year": "1962",
+      "style_id": "pop-art",
+      "type": "视觉艺术",
+      "desc": "丝网印刷将商业包装复制成艺术。简单红白配色，模糊高雅与通俗的边界。",
+      "source": "MoMA"
+    },
+    {
+      "id": "w014",
+      "title": "Whaam!",
+      "artist": "Roy Lichtenstein",
+      "year": "1963",
+      "style_id": "pop-art",
+      "type": "视觉艺术",
+      "desc": "以漫画分镜为原型，用本戴点模拟印刷质感。硬边平涂无渐变。",
+      "source": "泰特现代美术馆"
+    },
+    {
+      "id": "w015",
+      "title": "Memphis 家具系列",
+      "artist": "Ettore Sottsass",
+      "year": "1981",
+      "style_id": "pop-art",
+      "type": "产品设计",
+      "desc": "反设计宣言。廉价层压板、鲜艳配色、出乎意料的形状，挑战冷漠功能主义。",
+      "source": "米兰设计周"
+    },
+    {
+      "id": "w027",
+      "title": "玛丽莲·梦露肖像系列",
+      "artist": "Andy Warhol",
+      "year": "1962",
+      "style_id": "pop-art",
+      "type": "视觉艺术",
+      "desc": "重复的梦露面孔用荧光色丝网印刷，把好莱坞偶像变成工业产品。",
+      "source": "Andy Warhol Museum"
+    },
+    {
+      "id": "w028",
+      "title": "Campbell's Soup Can 3D 版",
+      "artist": "Warhol × Koons",
+      "year": "1995",
+      "style_id": "pop-art",
+      "type": "视觉艺术",
+      "desc": "Jeff Koons 将 Warhol 的平面罐头变成巨大不锈钢雕塑，波普从画布走向公共空间。",
+      "source": "Whitney Museum"
+    },
+    {
+      "id": "w016",
+      "title": "Neue Grafik 杂志封面",
+      "artist": "Josef Müller-Brockmann",
+      "year": "1958",
+      "style_id": "swiss-style",
+      "type": "平面设计",
+      "desc": "严格数学网格、清晰无衬线字体层级、左对齐理性布局。教科书般的瑞士风格。",
+      "source": "瑞士设计学派"
+    },
+    {
+      "id": "w017",
+      "title": "Helvetica 字体设计",
+      "artist": "Max Miedinger",
+      "year": "1957",
+      "style_id": "swiss-style",
+      "type": "字体设计",
+      "desc": "全世界使用最广的字体之一。中性客观清晰，没有情绪化表达却能完美承载任何内容。",
+      "source": "瑞士哈斯铸字厂"
+    },
+    {
+      "id": "w018",
+      "title": "纽约地铁导视系统",
+      "artist": "Massimo Vignelli",
+      "year": "1970",
+      "style_id": "swiss-style",
+      "type": "平面设计",
+      "desc": "统一网格、无衬线字体、按线路颜色区分。为混乱的纽约地铁建立了清晰的视觉逻辑。",
+      "source": "纽约大都会运输署"
+    },
+    {
+      "id": "w029",
+      "title": "奥运会海报系列",
+      "artist": "Otl Aicher",
+      "year": "1972",
+      "style_id": "swiss-style",
+      "type": "平面设计",
+      "desc": "慕尼黑奥运会视觉系统。清晰的象形图（Pictogram）让全世界人都能看懂。",
+      "source": "1972 慕尼黑奥林匹克运动会"
+    },
+    {
+      "id": "w030",
+      "title": "International Style 纽约",
+      "artist": "Philip Johnson",
+      "year": "1947",
+      "style_id": "swiss-style",
+      "type": "平面设计",
+      "desc": "以 8 栅格系统排版的经典画册，定义了战后全球现代主义建筑的视觉语言。",
+      "source": "MoMA 出版"
+    },
+    {
+      "id": "w031",
+      "title": "Staatliches Bauhaus 海报",
+      "artist": "Herbert Bayer",
+      "year": "1926",
+      "style_id": "bauhaus",
+      "type": "平面设计",
+      "desc": "红、黄、蓝三原色块，圆、方、三角构成，无衬线字体——包豪斯视觉识别的模板。",
+      "source": "Bauhaus Archive"
+    },
+    {
+      "id": "w032",
+      "title": "瓦西里椅（Wassily Chair）",
+      "artist": "Marcel Breuer",
+      "year": "1925",
+      "style_id": "bauhaus",
+      "type": "产品设计",
+      "desc": "世界第一把钢管椅，用自行车把手弯曲成悬臂结构。极简、理性、工业化。",
+      "source": "Vitra Design Museum"
+    },
+    {
+      "id": "w033",
+      "title": "包豪斯校舍",
+      "artist": "Walter Gropius",
+      "year": "1926",
+      "style_id": "bauhaus",
+      "type": "建筑",
+      "desc": "第一座真正的现代主义建筑。钢结构、玻璃幕墙、功能分区的不对称组合。",
+      "source": "德国 Dessau"
+    },
+    {
+      "id": "w034",
+      "title": "Theater Kurbel 吊灯",
+      "artist": "Marianne Brandt",
+      "year": "1926",
+      "style_id": "bauhaus",
+      "type": "产品设计",
+      "desc": "金属球 + 摇臂的纯粹几何，是包豪斯金属工作坊的代表作，至今仍在量产。",
+      "source": "Technisches Museum Berlin"
+    },
+    {
+      "id": "w035",
+      "title": "包豪斯字体实验",
+      "artist": "Herbert Bayer",
+      "year": "1925",
+      "style_id": "bauhaus",
+      "type": "字体设计",
+      "desc": "Universal 字体：只用圆和直线构成，字母没有衬线，追求最经济的表达。",
+      "source": "Bauhaus Archive"
+    },
+    {
+      "id": "w036",
+      "title": "马赛公寓",
+      "artist": "Le Corbusier",
+      "year": "1952",
+      "style_id": "brutalism",
+      "type": "建筑",
+      "desc": "现代主义居住单元的原型。粗野的清水混凝土、巨大的支柱、屋顶公共花园。",
+      "source": "法国马赛"
+    },
+    {
+      "id": "w037",
+      "title": "Habitat 67",
+      "artist": "Moshe Safdie",
+      "year": "1967",
+      "style_id": "brutalism",
+      "type": "建筑",
+      "desc": "蒙特利尔世博会上的立体模块化住宅，混凝土盒子堆叠成山地式景观。",
+      "source": "加拿大蒙特利尔"
+    },
+    {
+      "id": "w038",
+      "title": "波士顿市政厅",
+      "artist": "Kallmann McKinnell Knowles",
+      "year": "1969",
+      "style_id": "brutalism",
+      "type": "建筑",
+      "desc": "被评为「美国最丑建筑」之一的粗野主义杰作。几何感、暴露结构、拒人千里。",
+      "source": "波士顿 Government Center"
+    },
+    {
+      "id": "w039",
+      "title": "Trellick Tower",
+      "artist": "Erno Goldfinger",
+      "year": "1972",
+      "style_id": "brutalism",
+      "type": "建筑",
+      "desc": "伦敦西部的钢筋混凝土巨塔，细长的立面和独立服务塔构成戏剧性的对比。",
+      "source": "伦敦 Kensington"
+    },
+    {
+      "id": "w040",
+      "title": "粗野主义家具系列",
+      "artist": "Paul Evans",
+      "year": "1970s",
+      "style_id": "brutalism",
+      "type": "产品设计",
+      "desc": "钢铁焊接、粗铆钉、深色皮革。野兽派的粗犷美学入侵家用家具。",
+      "source": "Paul Evans Studio"
+    },
+    {
+      "id": "w041",
+      "title": "巴黎地铁出入口",
+      "artist": "Hector Guimard",
+      "year": "1900",
+      "style_id": "art-nouveau",
+      "type": "建筑",
+      "desc": "铸铁藤蔓造型的地铁入口，是新艺术最具标志性的公共符号。",
+      "source": "巴黎 Metro"
+    },
+    {
+      "id": "w042",
+      "title": "穆夏海报",
+      "artist": "Alphonse Mucha",
+      "year": "1894",
+      "style_id": "art-nouveau",
+      "type": "平面设计",
+      "desc": "人物被繁复的花卉藤蔓包围，线条流畅如流水，是新艺术商业海报的巅峰。",
+      "source": "Mucha Museum"
+    },
+    {
+      "id": "w043",
+      "title": "圣家堂彩色玻璃窗",
+      "artist": "Antoní Gaudí",
+      "year": "1900s",
+      "style_id": "art-nouveau",
+      "type": "建筑",
+      "desc": "高迪的彩色玻璃将光线过滤成万花筒般的色彩，拱形结构模拟有机生长。",
+      "source": "巴塞罗那圣家堂"
+    },
+    {
+      "id": "w044",
+      "title": "提凡尼彩色玻璃台灯",
+      "artist": "Louis Comfort Tiffany",
+      "year": "1890s",
+      "style_id": "art-nouveau",
+      "type": "产品设计",
+      "desc": "彩色玻璃拼成的花卉和蜻蜓图案，光线透过时呈现梦幻般的色彩。",
+      "source": "Tiffany Studios"
+    },
+    {
+      "id": "w045",
+      "title": "道姆玻璃花瓶",
+      "artist": "Émile Gallé",
+      "year": "1900",
+      "style_id": "art-nouveau",
+      "type": "工艺",
+      "desc": "多层套料玻璃上雕刻精细的植物藤蔓，是南锡新艺术派的精华。",
+      "source": "Musée de l'École de Nancy"
+    },
+    {
+      "id": "w046",
+      "title": "红、黄、蓝构图",
+      "artist": "Piet Mondrian",
+      "year": "1930",
+      "style_id": "de-stijl",
+      "type": "视觉艺术",
+      "desc": "Mondrian 成熟代表作。水平垂直线切割，三原色和非色构成，绝对理性的抽象。",
+      "source": "MoMA / Tate"
+    },
+    {
+      "id": "w047",
+      "title": "红蓝椅",
+      "artist": "Gerrit Rietveld",
+      "year": "1918",
+      "style_id": "de-stijl",
+      "type": "产品设计",
+      "desc": "只用红黄蓝三色和黑色线条。拆开是直线和方块，组合成一把完整的椅子。",
+      "source": "Vitra Design Museum"
+    },
+    {
+      "id": "w048",
+      "title": "Schröder 住宅",
+      "artist": "Gerrit Rietveld",
+      "year": "1924",
+      "style_id": "de-stijl",
+      "type": "建筑",
+      "desc": "风格派建筑的三维实现。墙面的水平垂直线延伸到家具、窗户、阳台的每一寸。",
+      "source": "荷兰乌得勒支（UNESCO）"
+    },
+    {
+      "id": "w049",
+      "title": "Counter-Composition XIV",
+      "artist": "Theo van Doesburg",
+      "year": "1923",
+      "style_id": "de-stijl",
+      "type": "视觉艺术",
+      "desc": "Mondrian 的动态版本。斜线打破绝对的水平垂直，引入时间和速度感。",
+      "source": "Guggenheim"
+    },
+    {
+      "id": "w050",
+      "title": "De Stijl 杂志封面",
+      "artist": "Theo van Doesburg",
+      "year": "1917",
+      "style_id": "de-stijl",
+      "type": "平面设计",
+      "desc": "风格派的视觉宣言。几何构成、三原色、理性排版，影响了整整一个世纪的设计。",
+      "source": "Stedelijk Museum Amsterdam"
+    },
+    {
+      "id": "w051",
+      "title": "AT&T 大厦（索尼大厦）",
+      "artist": "Philip Johnson",
+      "year": "1984",
+      "style_id": "postmodernism",
+      "type": "建筑",
+      "desc": "在摩天楼顶部放一个巨大的古典三角帽。后现代主义最具标志性的「装腔作势」。",
+      "source": "纽约 Madison Avenue"
+    },
+    {
+      "id": "w052",
+      "title": "Vanna Venturi 住宅",
+      "artist": "Robert Venturi",
+      "year": "1964",
+      "style_id": "postmodernism",
+      "type": "建筑",
+      "desc": "后现代主义的宣言建筑。巨大的装饰性拱门、不成比例的元素——「形式追随功能」到此为止。",
+      "source": "费城 Chestnut Hill"
+    },
+    {
+      "id": "w053",
+      "title": "Carlton 书架",
+      "artist": "Ettore Sottsass",
+      "year": "1981",
+      "style_id": "postmodernism",
+      "type": "产品设计",
+      "desc": "Memphis 集团的标志家具。彩色层压板 + 夸张比例 + 毫无实用功能。它就是个笑话。",
+      "source": "Memphis Group 米兰"
+    },
+    {
+      "id": "w054",
+      "title": "新奥尔良意大利广场",
+      "artist": "Charles Moore",
+      "year": "1978",
+      "style_id": "postmodernism",
+      "type": "景观设计",
+      "desc": "把罗马的所有标志性建筑（斗兽场、拱门、柱状结构）缩微拼成一个公共广场。",
+      "source": "新奥尔良 French Quarter"
+    },
+    {
+      "id": "w055",
+      "title": "Bugs Bunny 吊灯",
+      "artist": "Ingo Maurer",
+      "year": "1990s",
+      "style_id": "postmodernism",
+      "type": "产品设计",
+      "desc": "把 Looney Tunes 卡通人物直接做成灯具。高雅艺术与通俗文化的完美拼贴。",
+      "source": "Ingo Maurer Studio"
+    },
+    {
+      "id": "w056",
+      "title": "Eames Lounge Chair",
+      "artist": "Charles & Ray Eames",
+      "year": "1956",
+      "style_id": "mid-century-modern",
+      "type": "产品设计",
+      "desc": "胡桃木外壳 + 皮革坐垫 + 抛光铝脚。中世纪现代的标志，至今仍在量产。",
+      "source": "Herman Miller"
+    },
+    {
+      "id": "w057",
+      "title": "Tulip Chair",
+      "artist": "Eero Saarinen",
+      "year": "1955",
+      "style_id": "mid-century-modern",
+      "type": "产品设计",
+      "desc": "花瓣形的一体铸造底座 + 有机曲线座椅。没有腿，像从地面长出来。",
+      "source": "Knoll"
+    },
+    {
+      "id": "w058",
+      "title": "Case Study House No. 22",
+      "artist": "Pierre Koenig",
+      "year": "1960",
+      "style_id": "mid-century-modern",
+      "type": "建筑",
+      "desc": "玻璃盒式的现代住宅，悬浮在洛杉矶山坡上。最著名的中世纪现代建筑照片。",
+      "source": "洛杉矶 Beverly Hills"
+    },
+    {
+      "id": "w059",
+      "title": "Noguchi 灯笼",
+      "artist": "Isamu Noguchi",
+      "year": "1950s",
+      "style_id": "mid-century-modern",
+      "type": "产品设计",
+      "desc": "纸灯笼的现代转译。有机造型、温暖光线，东方美学与西方现代的融合。",
+      "source": "Noguchi Museum"
+    },
+    {
+      "id": "w060",
+      "title": "Womb 椅",
+      "artist": "Eero Saarinen",
+      "year": "1948",
+      "style_id": "mid-century-modern",
+      "type": "产品设计",
+      "desc": "玻璃纤维外壳包裹着厚软坐垫，坐进去像被一个温柔的茧接住。",
+      "source": "Knoll"
+    },
+    {
+      "id": "w061",
+      "title": "Apple Store 第五大道",
+      "artist": "Jonathan Ive",
+      "year": "2006",
+      "style_id": "minimalism",
+      "type": "建筑",
+      "desc": "玻璃立方体 + 螺旋楼梯。把极简主义推到极致的商业空间。",
+      "source": "纽约曼哈顿"
+    },
+    {
+      "id": "w062",
+      "title": "Malmö 旋转公寓",
+      "artist": "Santiago Calatrava",
+      "year": "2005",
+      "style_id": "organic-naturalism",
+      "type": "建筑",
+      "desc": "像一个旋转的人体脊椎骨，每个楼层都略微倾斜扭曲，有机形态的极致。",
+      "source": "瑞典马尔默"
+    },
+    {
+      "id": "w063",
+      "title": "《千与千寻》",
+      "artist": "宫崎骏 / 吉卜力",
+      "year": "2001",
+      "style_id": "wabi-sabi",
+      "type": "动画",
+      "desc": "千寻闯入神隐世界，朴素的日式风景与神秘神灵共存。自然、残缺、静谧的美学贯穿始终。",
+      "source": "吉卜力工作室"
+    },
+    {
+      "id": "w064",
+      "title": "《幻想曲》",
+      "artist": "Walt Disney",
+      "year": "1940",
+      "style_id": "art-deco",
+      "type": "动画",
+      "desc": "用装饰艺术风格的几何、流线和对称重构古典音乐，是 1940 年代装饰艺术在动画中的登峰造极。",
+      "source": "迪士尼"
+    },
+    {
+      "id": "w065",
+      "title": "《Your Name 你的名字》",
+      "artist": "新海诚",
+      "year": "2016",
+      "style_id": "swiss-style",
+      "type": "动画",
+      "desc": "极端精准的对称构图、干净的色块分割、黄金比例的天空画面。每帧都像瑞士平面设计海报。",
+      "source": "CoMix Wave Films"
+    },
+    {
+      "id": "w066",
+      "title": "《Paperman 纸人》",
+      "artist": "John Kahrs / Disney",
+      "year": "2012",
+      "style_id": "minimalism",
+      "type": "动画",
+      "desc": "黑白极简的线条世界，只有一张红色的纸作为色彩主角。是极简主义动画的教科书。",
+      "source": "迪士尼动画短片"
+    },
+    {
+      "id": "w067",
+      "title": "《Flora 花》",
+      "artist": "Claire Keane",
+      "year": "2022",
+      "style_id": "organic-naturalism",
+      "type": "视觉艺术",
+      "desc": "粉彩花卉作品，为巴黎 Arludik 画廊「Lovely」展览创作，以柔和的形态与色彩节奏颂扬女性的柔美与轮廓。",
+      "source": "Claire Keane 官网 claireonacloud.com"
+    },
+    {
+      "id": "w068",
+      "title": "《The Old Man and The Sea》油画动画",
+      "artist": "Aleksandr Petrov",
+      "year": "1999",
+      "style_id": "minimalism",
+      "type": "动画",
+      "desc": "直接在玻璃上用油画颜料逐帧绘制。画面极简、留白巨大、色彩克制，动画如流动的画廊。",
+      "source": "奥斯卡最佳动画短片"
+    },
+    {
+      "id": "w069",
+      "title": "《纪念碑谷》",
+      "artist": "ustwo games",
+      "year": "2014",
+      "style_id": "de-stijl",
+      "type": "游戏",
+      "desc": "用埃舍尔式的不可能几何 + 风格派三原色（红/黄/蓝/黑线条），是风格派美学在游戏中的完美复刻。",
+      "source": "ustwo"
+    },
+    {
+      "id": "w070",
+      "title": "《Journey 风之旅人》",
+      "artist": "thatgamecompany",
+      "year": "2012",
+      "style_id": "organic-naturalism",
+      "type": "游戏",
+      "desc": "无垠沙漠中飘飞的红袍，柔软的有机曲线和生命感。是游戏能做到的最纯粹的情感与美学。",
+      "source": "thatgamecompany / Annapurna"
+    },
+    {
+      "id": "w071",
+      "title": "《Bioshock Infinite 生化奇兵：无限之城》",
+      "artist": "Irrational Games",
+      "year": "2013",
+      "style_id": "art-deco",
+      "type": "游戏",
+      "desc": "哥伦比亚飞行城的装饰艺术建筑群——阶梯状摩天楼、几何花纹、金属光泽，是装饰艺术的游戏世界。",
+      "source": "2K Games"
+    },
+    {
+      "id": "w072",
+      "title": "《Persona 5 女神异闻录 5》",
+      "artist": "Atlus",
+      "year": "2016",
+      "style_id": "pop-art",
+      "type": "游戏",
+      "desc": "红黑配色 + 大胆的波普图形设计 + 漫画分镜 UI，是波普艺术在游戏 UI 中的巅峰应用。",
+      "source": "Atlus / Sega"
+    },
+    {
+      "id": "w073",
+      "title": "《LIMBO 地狱边境》",
+      "artist": "Playdead",
+      "year": "2010",
+      "style_id": "brutalism",
+      "type": "游戏",
+      "desc": "黑白的粗粝世界、冰冷的混凝土几何、无尽的黑暗。野兽派美学在独立游戏中的极致表达。",
+      "source": "Playdead"
+    },
+    {
+      "id": "w074",
+      "title": "《最后生还者 Part II》",
+      "artist": "Naughty Dog",
+      "year": "2020",
+      "style_id": "wabi-sabi",
+      "type": "游戏",
+      "desc": "末世后西雅图的自然侵蚀之美。藤蔓爬过混凝土，苔藓覆盖废墟——侘寂的末世版本。",
+      "source": "Sony / Naughty Dog"
+    },
+    {
+      "id": "w075",
+      "title": "《2001: 太空漫游》",
+      "artist": "Stanley Kubrick",
+      "year": "1968",
+      "style_id": "brutalism",
+      "type": "电影",
+      "desc": "巨大的黑色 Monolith 是极简主义和野兽派的极致符号。对称构图、冷色调、无情感的机器美学。",
+      "source": "Metro-Goldwyn-Mayer"
+    },
+    {
+      "id": "w076",
+      "title": "《布达佩斯大饭店》",
+      "artist": "Wes Anderson",
+      "year": "2014",
+      "style_id": "art-deco",
+      "type": "电影",
+      "desc": "完美的对称构图、粉彩色调、装饰艺术风格的场景设计。是当代对装饰艺术最美的致敬。",
+      "source": "Fox Searchlight"
+    },
+    {
+      "id": "w077",
+      "title": "《惊魂记》片头字幕",
+      "artist": "Saul Bass",
+      "year": "1960",
+      "style_id": "swiss-style",
+      "type": "电影",
+      "desc": "几何切割、网格排列、无衬线字体——Saul Bass 用瑞士平面风格重新定义了电影片头。",
+      "source": "Alfred Hitchcock / Paramount"
+    },
+    {
+      "id": "w078",
+      "title": "《银翼杀手 2049》",
+      "artist": "Denis Villeneuve",
+      "year": "2017",
+      "style_id": "brutalism",
+      "type": "电影",
+      "desc": "洛杉矶的混凝土巨塔 + 霓虹雨的赛博朋克世界。野兽派的体量感 + 极简的冷色调。",
+      "source": "Warner Bros / Alcon"
+    },
+    {
+      "id": "w079",
+      "title": "《穆赫兰道》",
+      "artist": "David Lynch",
+      "year": "2001",
+      "style_id": "de-stijl",
+      "type": "电影",
+      "desc": "对称构图、精确的色彩分割、水平垂直线的重复——林奇用风格派语法营造了最不安的梦境。",
+      "source": "StudioCanal"
+    },
+    {
+      "id": "w080",
+      "title": "《让子弹飞》",
+      "artist": "姜文",
+      "year": "2010",
+      "style_id": "art-nouveau",
+      "type": "电影",
+      "desc": "川西平原的装饰性场景、对称构图的戏剧感、台词中流淌的装饰美学。中国新艺术主义。",
+      "source": "华谊兄弟"
+    },
+    {
+      "id": "w081",
+      "title": "iOS 7 扁平化设计",
+      "artist": "Apple / Jony Ive",
+      "year": "2013",
+      "style_id": "minimalism",
+      "type": "交互设计",
+      "desc": "抛弃拟物化，用扁平色块、无衬线字体、大留白重新定义了移动 UI 的美学标准。",
+      "source": "Apple Inc."
+    },
+    {
+      "id": "w082",
+      "title": "Rain Room 雨屋",
+      "artist": "Random International",
+      "year": "2012",
+      "style_id": "brutalism",
+      "type": "交互设计",
+      "desc": "巨大的白色房间里，雨自动为你让路。冷酷的技术（运动追踪）与诗意的体验形成鲜明对比。",
+      "source": "Barbican Art Gallery / MoMA"
+    },
+    {
+      "id": "w083",
+      "title": "TeamLab 花舞森林",
+      "artist": "TeamLab",
+      "year": "2017",
+      "style_id": "organic-naturalism",
+      "type": "数字艺术",
+      "desc": "盛开又凋零的投影花朵与人的身体互动。把自然生长的逻辑搬进了数字空间。",
+      "source": "TeamLab Borderless 上海"
+    },
+    {
+      "id": "w084",
+      "title": "「超正常」交互设计",
+      "artist": "Naoto Fukasawa",
+      "year": "2000s",
+      "style_id": "wabi-sabi",
+      "type": "交互设计",
+      "desc": "让设计「无意识」——像门把手应该被握住的位置、插座应该被插入的方向。最不显眼的设计才是最好的设计。",
+      "source": "深泽直人工作室"
+    },
+    {
+      "id": "w085",
+      "title": "任天堂 Labo",
+      "artist": "Nintendo / Taro Kono",
+      "year": "2018",
+      "style_id": "bauhaus",
+      "type": "交互设计",
+      "desc": "用最简单的纸板 + 模块化几何 + 三原色 DIY 玩具。是包豪斯「艺术与技术统一」的当代实践。",
+      "source": "Nintendo"
+    },
+    {
+      "id": "w086",
+      "title": "上海世博英国馆（种子圣殿）",
+      "artist": "Heatherwick Studio",
+      "year": "2010",
+      "style_id": "organic-naturalism",
+      "type": "建筑",
+      "desc": "60,000 根透明的亚克力种子从屋顶像植物茎干一样向外辐射，是自然形态被放大到建筑尺度的典范。",
+      "source": "上海世博会"
+    },
+    {
+      "id": "w087",
+      "title": "北京 798 艺术区",
+      "artist": "当代艺术改造",
+      "year": "2000s — 至今",
+      "style_id": "brutalism",
+      "type": "空间设计",
+      "desc": "把东德遗留的粗野主义工厂建筑改造成当代艺术区。混凝土的粗粝与当代艺术的活力碰撞。",
+      "source": "北京朝阳区"
+    },
+    {
+      "id": "w088",
+      "title": "《The Weather Project》",
+      "artist": "Olafur Eliasson",
+      "year": "2003",
+      "style_id": "minimalism",
+      "type": "空间设计",
+      "desc": "在 Turbine Hall 放一个巨大的假太阳，整个空间被橙色笼罩。极简到极致的沉浸式体验。",
+      "source": "伦敦 Tate Modern"
+    },
+    {
+      "id": "w089",
+      "title": "宜家 RENINGEN 零售体验",
+      "artist": "IKEA Design Team",
+      "year": "2019",
+      "style_id": "swiss-style",
+      "type": "空间设计",
+      "desc": "用清晰的网格导航、无衬线字体、色彩分区组织整个零售空间。是瑞士风格在商业空间的大规模实践。",
+      "source": "IKEA 全球旗舰"
+    },
+    {
+      "id": "w090",
+      "title": "Guggenheim 毕尔巴鄂",
+      "artist": "Frank Gehry",
+      "year": "1997",
+      "style_id": "organic-naturalism",
+      "type": "建筑",
+      "desc": "钛金属鳞片覆盖的不规则曲面，像一条鱼的侧影。是有机自然主义在解构主义建筑分支的代表作。",
+      "source": "西班牙毕尔巴鄂"
+    },
+    {
+      "id": "w091",
+      "title": "《纽约时报》插画",
+      "artist": "Malik Huseinagic",
+      "year": "当代",
+      "style_id": "swiss-style",
+      "type": "平面设计",
+      "desc": "严格的网格 + 精确的色彩 + 无衬线字体。瑞士平面风格的当代编辑设计。",
+      "source": "The New York Times"
+    },
+    {
+      "id": "w092",
+      "title": "Beats by Dre 视觉系统",
+      "artist": "Ahmir 'Questlove' Thompson 团队",
+      "year": "2010s",
+      "style_id": "pop-art",
+      "type": "平面设计",
+      "desc": "鲜艳的红色和黑色 + 高饱和产品摄影 + 名人海报，是波普艺术在消费品牌视觉中的延续。",
+      "source": "Beats Electronics"
+    },
+    {
+      "id": "w093",
+      "title": "Muji 视觉系统",
+      "artist": "Kenya Hara / 原研哉",
+      "year": "2003",
+      "style_id": "wabi-sabi",
+      "type": "平面设计",
+      "desc": "「无、空白、素」。无印良品用大量留白和低饱和度的极简平面设计实践侘寂美学。",
+      "source": "MUJI / 原研哉设计研究室"
+    },
+    {
+      "id": "w094",
+      "title": "Vitra Museum 海报",
+      "artist": "Vitra Design Museum",
+      "year": "当代",
+      "style_id": "bauhaus",
+      "type": "平面设计",
+      "desc": "用包豪斯三原色和几何构成组织展览海报，是经典风格在当代展览设计中的循环使用。",
+      "source": "Vitra Design Museum, Weil am Rhein"
+    },
+    {
+      "id": "w095",
+      "title": "Sagmeister & Walsh 视觉实验",
+      "artist": "Stefan Sagmeister",
+      "year": "2010s",
+      "style_id": "postmodernism",
+      "type": "平面设计",
+      "desc": "用有趣的、夸张的、不合逻辑的方式组织文字和图像。后现代主义在平面设计中的反常规实践。",
+      "source": "Sagmeister & Walsh Studio"
+    },
+    {
+      "id": "w096",
+      "title": "AirPods Pro",
+      "artist": "Apple",
+      "year": "2019",
+      "style_id": "minimalism",
+      "type": "工业设计",
+      "desc": "几乎没有线条的白色半透明外壳。声学、传感器、电池全部消失在极简形态之中。",
+      "source": "Apple Inc."
+    },
+    {
+      "id": "w097",
+      "title": "Alessi Juicy Salif 榨汁器",
+      "artist": "Philippe Starck",
+      "year": "1990",
+      "style_id": "postmodernism",
+      "type": "产品设计",
+      "desc": "星星形状的铝制榨汁器，完全不便于清洗——但它就是为了好玩和惊艳你。后现代主义的玩笑。",
+      "source": "Alessi"
+    },
+    {
+      "id": "w098",
+      "title": "B&O Beoplay A9",
+      "artist": "BANG & OLUFSEN",
+      "year": "2010s",
+      "style_id": "organic-naturalism",
+      "type": "产品设计",
+      "desc": "圆形的扬声器 + 四条木质腿 + 毛纺面罩。像一个从地板上长出的生物。",
+      "source": "Bang & Olufsen"
+    },
+    {
+      "id": "w099",
+      "title": "Vitra Panton Chair 限量版",
+      "artist": "Verner Panton",
+      "year": "1967/2024",
+      "style_id": "organic-naturalism",
+      "type": "产品设计",
+      "desc": "一体成型塑料椅，S 形曲线如流水。60 年后依然是现代主义设计的永恒典范。",
+      "source": "Vitra Design Museum"
+    },
+    {
+      "id": "w100",
+      "title": "无印良品壁挂式 CD 播放器",
+      "artist": "Naoto Fukasawa",
+      "year": "1999",
+      "style_id": "wabi-sabi",
+      "type": "产品设计",
+      "desc": "把 CD 播放器做成像排风扇一样挂在墙上——风从 CD 转动中「吹出来」的隐喻。侘寂最具诗意的工业设计。",
+      "source": "无印良品"
+    },
+    {
+      "id": "w101",
+      "title": "Vespa 125 踏板摩托车",
+      "artist": "Corradino D'Ascanio",
+      "year": "1946",
+      "style_id": "mid-century-modern",
+      "type": "工业设计",
+      "desc": "一体式钢制车身、圆润有机曲线，将飞机制造工艺带入日常交通工具。战后意大利工业设计的象征，至今仍在生产。",
+      "source": "Piaggio / Vespa 官网"
+    },
+    {
+      "id": "w102",
+      "title": "Zénith 水晶吊灯",
+      "artist": "Philippe Starck",
+      "year": "2000s",
+      "style_id": "postmodernism",
+      "type": "工艺",
+      "desc": "黑色水晶与经典烛台造型的碰撞——Starck 为 Baccarat 设计的反传统水晶灯，将奢华材质与后现代幽默结合。",
+      "source": "Baccarat 官网"
+    },
+    {
+      "id": "w103",
+      "title": "iPhone 初代",
+      "artist": "Apple",
+      "year": "2007",
+      "style_id": "minimalism",
+      "type": "交互设计",
+      "desc": "一个屏幕、一个 Home 键，用多点触控重新定义手机交互。极简硬件 + 直觉式软件，开启智能手机时代。",
+      "source": "Apple Newsroom"
+    },
+    {
+      "id": "w104",
+      "title": "无限镜屋（Infinity Mirror Room）",
+      "artist": "Yayoi Kusama",
+      "year": "1965",
+      "style_id": "pop-art",
+      "type": "空间设计",
+      "desc": "镜墙 + 波点灯光构建无限延伸的空间，观者置身其中被自身无限反射吞没。草间弥生最具标志性的沉浸式装置。",
+      "source": "草间弥生美术馆官网"
+    },
+    {
+      "id": "w105",
+      "title": "House of Eternal Return",
+      "artist": "Meow Wolf",
+      "year": "2016",
+      "style_id": "postmodernism",
+      "type": "空间设计",
+      "desc": "废弃房屋中隐藏的超现实异世界——每个房间都是一个叙事谜题，观者在其中探索、迷失、发现。沉浸式叙事空间的里程碑。",
+      "source": "Meow Wolf 官网"
+    },
+    {
+      "id": "w106",
+      "title": "MUJI Hotel Ginza",
+      "artist": "MUJI",
+      "year": "2019",
+      "style_id": "minimalism",
+      "type": "室内设计",
+      "desc": "原木、白墙、无印良品产品直接作为家具和装饰。极简不是空，而是把生活的本质还原到最舒适的状态。",
+      "source": "MUJI Hotel 官网"
+    },
+    {
+      "id": "w107",
+      "title": "Aesop 苏黎世 Bärengasse 门店",
+      "artist": "Aesop",
+      "year": "2019",
+      "style_id": "wabi-sabi",
+      "type": "室内设计",
+      "desc": "整面软木墙包裹的温暖空间，质朴材料与精密产品陈列形成张力。Aesop 将零售空间变成材质的诗。",
+      "source": "Aesop 门店设计库"
+    },
+    {
+      "id": "w108",
+      "title": "Apple Park Visitor Center",
+      "artist": "Foster + Partners",
+      "year": "2017",
+      "style_id": "minimalism",
+      "type": "室内设计",
+      "desc": "漂浮的碳纤维屋顶、大面积玻璃幕墙，室内外边界消融。Apple 美学在建筑空间中的极致表达。",
+      "source": "Foster + Partners 官方发布"
+    },
+    {
+      "id": "w109",
+      "title": "High Line 高线公园",
+      "artist": "James Corner Field Operations",
+      "year": "2009",
+      "style_id": "organic-naturalism",
+      "type": "景观设计",
+      "desc": "废弃高架铁路改造为空中花园，保留铁轨与野生植被的工业记忆。景观都市主义的典范，全球城市改造的灵感来源。",
+      "source": "Friends of the High Line"
+    },
+    {
+      "id": "w110",
+      "title": "Gardens by the Bay 滨海湾花园",
+      "artist": "WilkinsonEyre / Grant Associates",
+      "year": "2012",
+      "style_id": "organic-naturalism",
+      "type": "景观设计",
+      "desc": "18 棵擎天树（Supertree）与两个生态冷室，将热带植物多样性与未来主义结构结合。仿生景观设计的标杆。",
+      "source": "Gardens by the Bay 官网"
+    },
+    {
+      "id": "w111",
+      "title": "Central Park 中央公园",
+      "artist": "Frederick Law Olmsted & Calvert Vaux",
+      "year": "1858",
+      "style_id": "organic-naturalism",
+      "type": "景观设计",
+      "desc": "美国第一个大型城市公园，以英式自然风景园手法在曼哈顿网格中植入一片「荒野」。现代景观设计的奠基之作。",
+      "source": "Central Park Conservancy"
+    },
+    {
+      "id": "w112",
+      "title": "Futura 字体",
+      "artist": "Paul Renner",
+      "year": "1927",
+      "style_id": "bauhaus",
+      "type": "字体设计",
+      "desc": "基于圆、方、三角几何形构建的无衬线字体，包豪斯精神在字体设计中的纯粹表达。20 世纪最具影响力的几何无衬线体。",
+      "source": "Bauer Type Foundry"
+    },
+    {
+      "id": "w113",
+      "title": "Bodoni 字体",
+      "artist": "Giambattista Bodoni",
+      "year": "1798",
+      "style_id": "art-deco",
+      "type": "字体设计",
+      "desc": "极细衬线与强烈粗细对比，新古典主义字体的巅峰。理性、优雅、几何化的字形影响了后世两百余年的排版审美。",
+      "source": "Museo Bodoniano"
+    },
+    {
+      "id": "w114",
+      "title": "Times New Roman 字体",
+      "artist": "Stanley Morison & Victor Lardent",
+      "year": "1931",
+      "style_id": "mid-century-modern",
+      "type": "字体设计",
+      "desc": "为《泰晤士报》设计的高可读性衬线字体，在紧凑栏宽中保持清晰。成为 20 世纪使用最广泛的正文字体之一。",
+      "source": "Monotype / The Times"
+    },
+    {
+      "id": "w115",
+      "title": "Machine Hallucinations 机器幻觉",
+      "artist": "Refik Anadol",
+      "year": "2019",
+      "style_id": "postmodernism",
+      "type": "数字艺术",
+      "desc": "用 GAN 算法训练超过 1 亿张纽约照片，让机器「做梦」生成城市的潜意识。AI 数据雕塑的开创性作品。",
+      "source": "Refik Anadol Studio"
+    },
+    {
+      "id": "w116",
+      "title": "Everydays: The First 5000 Days",
+      "artist": "Beeple (Mike Winkelmann)",
+      "year": "2021",
+      "style_id": "pop-art",
+      "type": "数字艺术",
+      "desc": "5000 张每日创作的数字图像拼贴成的巨幅作品，以 6934 万美元成交，标志数字艺术进入主流艺术市场。",
+      "source": "Christie's / Beeple"
+    },
+    {
+      "id": "w117",
+      "title": "Wooden Mirror 木质镜子",
+      "artist": "Daniel Rozin",
+      "year": "1999",
+      "style_id": "minimalism",
+      "type": "数字艺术",
+      "desc": "830 块木板由伺服电机驱动，实时反射观者影像。用最质朴的材料实现数字镜像，质疑「像素」的本质。",
+      "source": "Daniel Rozin / bitforms gallery"
+    },
+    {
+      "id": "w118",
+      "title": "Atlas of Blobs 斑点图集",
+      "artist": "Zachary Lieberman",
+      "year": "2023",
+      "style_id": "bauhaus",
+      "type": "数字艺术",
+      "desc": "用代码生成的有机形态每日速写，探索计算作为诗意媒介的可能。openFrameworks 联合创始人的代表性创作。",
+      "source": "Zach Lieberman / M+"
+    }
+  ]
+}
